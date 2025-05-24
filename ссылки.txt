@@ -1,2 +1,0 @@
-клиентская часть - https://next-js-client-for-next-laravel-production.up.railway.app/
-серверная часть - https://api-deploy-production-a967.up.railway.app/
